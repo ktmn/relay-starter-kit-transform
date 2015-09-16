@@ -2,6 +2,8 @@
 
 This is [relay-starter-kit](https://github.com/relayjs/relay-starter-kit) combined with [react-transform-boilerplate](https://github.com/gaearon/react-transform-boilerplate)
 
+*Note: If you make changes to Relay container's fragments you'll still have to F5 to get the new props.*
+
 # Relay Starter Kit
 
 This kit includes an app server, a GraphQL server, and a transpiler that you can use to get started building an app with Relay. For a walkthrough, see the [Relay tutorial](https://facebook.github.io/relay/docs/tutorial.html).
